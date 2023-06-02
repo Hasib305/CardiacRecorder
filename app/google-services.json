@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "937446696754",
+    "project_id": "retrive-data-d015e",
+    "storage_bucket": "retrive-data-d015e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:937446696754:android:edbb90281216c8b9b6d92b",
+        "android_client_info": {
+          "package_name": "com.example.retrivedata"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "937446696754-c344pec97igljdqs7269gmnlof71sptn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNz3q2hrM6pa1-w4sulZyfS_Ea1B4PLHo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "937446696754-c344pec97igljdqs7269gmnlof71sptn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
